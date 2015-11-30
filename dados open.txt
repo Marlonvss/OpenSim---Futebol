@@ -1,0 +1,6 @@
+região: feuc
+endereçõ: testech.no-ip.info
+porta:9000
+primeiro nome: Admin
+Segundo nome: Admin
+senha: Admin
